@@ -1,0 +1,190 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*......header section....*/
+
+header{
+	width: 100%;
+	padding: 30px 0;
+}
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.logo img{}
+nav{
+	width: 80%;
+	float: right;
+}
+nav ul{
+	width: 100%;
+	text-align: right;
+	
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	padding-right: 40px;
+}
+nav ul li:last-child{
+	padding-right: 0px!important;
+}
+nav ul li a{
+	text-decoration: none;
+	font-size: 19px;
+	
+	color: grey;
+}
+
+.banar-section{
+	width: 100%;
+}
+.banar-img{
+	width: 100%;
+}
+.banar-img img{
+	width:100%; 
+
+}
+/*....article-section....*/
+.container-art{
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.article-section{
+	width: 100%;
+}
+.art-pat-1{
+	padding: 40px 0;
+}
+.art-pat-1 span{
+	color: grey;
+	margin: 20px 0;
+}
+.art-pat-1 h2{
+	color: grey;
+	margin: 20px 0;
+}
+.art-pat-1 p{
+	color: grey;
+	margin: 20px 0;
+}
+.art-pat-1 a{
+	text-decoration: none;
+	color: grey;
+	margin: 20px 0!important;
+}
+.gallery{
+	width: 100%;
+	margin: 20px 0;
+	display: inline-block;
+}
+.gallery-box{
+	width: 48%;
+	float: left;
+	margin-right: 20px;
+}
+.gallery-box img{
+	width: 100%;
+}
+.gallery-box span{
+	color: grey;
+	margin:20px 0;
+	display: inline-block;
+	
+}
+.gallery-box h2{
+	color: grey;
+	margin: 20px 0;
+}
+.gallery-box p{
+	color: gray;
+	
+}
+.margin{
+	margin-right: 20px;
+}
+.newsletter-section{
+	width: 100%;
+	background-color: #e4e2e2;
+	margin: 30px 0;
+	padding: 100px 0;
+}
+.news {
+	text-align: center;
+	
+}
+.news h2{
+	margin-bottom: 25px;
+}
+.news input{
+	border: none;
+	border-bottom: 1px solid black;
+	background: transparent;
+	width: 40%;
+	padding: 10px;
+}
+  /*....button-section....*/ 
+
+  .button-section{
+  	width: 100%;
+  } 
+.btn{
+	text-align: center;
+	padding: 55px 0;
+}
+.btn a{
+	text-decoration: none;
+	font-size: 20px;
+	font: bold;
+
+}
+.btn button{
+	padding: 20px 50px;
+}
+.footer{
+	width: 100%;
+	background-color: #bbbbbb;
+	padding: 40px 0;
+}
+.terms{
+	margin-left: 50px;
+}
+.terms ul{
+	list-style: none;
+}
+
+.terms ul li{
+	float: left;
+	padding-right: 20px;
+	font-size: 19px;
+}
+.Follow{
+	float: right;
+	margin-right: 50px;
+}
+.Follow ul{
+	list-style: none;
+}
+.Follow ul li{
+	float: left;
+	font-size:19px;
+	padding-right: 15px;
+
+}
+.Follow ul li:last-child{
+	padding-right: 0px!important;
+}
+.Follow a img{
+	width: 20px;
+	height: 20px;
+}
